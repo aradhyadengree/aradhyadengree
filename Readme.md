@@ -60,8 +60,8 @@ Built a local IPFS cluster on Linux machines for fully offline file sharing, pee
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aradhyadengre&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradhyadengre&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aradhyadengree&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradhyadengree&layout=compact&theme=tokyonight" />
 </p>
 
 ---
