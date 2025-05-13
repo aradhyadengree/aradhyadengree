@@ -90,4 +90,4 @@ Built a local IPFS cluster on Linux machines for fully offline file sharing, pee
 
 ---
 
-<p align="center">✨ _Thanks for stopping by! Let's build something cool together._ ✨</p>
+<p align="center">✨ Thanks for stopping by! Let's build something cool together. ✨</p>
