@@ -1,6 +1,6 @@
 <!-- Custom Typing Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aradhyadengree/aradhyadengree/a108d59705daf489df1c467256ed767243928d6f/assets/aradhya_typing_banner.svg" alt="Typing Banner" />
+  <img src="https://raw.githubusercontent.com/aradhyadengree/aradhyadengree/639f5160285598461cb08a450fa7d86e7c3e577c/assets/animated-banner.svg" alt="Typing Banner" />
 </p>
 
 
