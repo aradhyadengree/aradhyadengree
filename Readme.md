@@ -33,7 +33,6 @@
 Built and deployed a scalable Node.js application using **MongoDB**, **Redis**, **Docker**, and **Terraform** on **AWS EC2**. Showcases automation, containerization, and IaC best practices.
 
 🔧 **Stack:** Node.js, MongoDB, Redis, Docker, Terraform, AWS  
-🔗 [GitHub Repo](#)
 
 ---
 
@@ -41,7 +40,6 @@ Built and deployed a scalable Node.js application using **MongoDB**, **Redis**, 
 A Node.js app that accepts file uploads and pins them to an IPFS node, making content available across multiple connected nodes.
 
 🔧 **Stack:** Node.js, Express, IPFS CLI/API, Docker  
-🔗 [GitHub Repo](#)
 
 ---
 
@@ -49,7 +47,6 @@ A Node.js app that accepts file uploads and pins them to an IPFS node, making co
 Built a local IPFS cluster on Linux machines for fully offline file sharing, peer discovery, and decentralized storage practice.
 
 🔧 **Stack:** Linux, IPFS, Shell Scripting  
-🔗 [GitHub Repo](#)
 
 ---
 
