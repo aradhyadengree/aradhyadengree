@@ -1,10 +1,10 @@
 <!-- Custom Typing Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aradhyadengree/aradhyadengree/639f5160285598461cb08a450fa7d86e7c3e577c/assets/animated-banner.svg" alt="Typing Banner" />
+  <img src="https://raw.githubusercontent.com/aradhyadengree/aradhyadengree/c1aa1ddba38340856cb5a879da00619547781d21/assets/animated-banner.svg" alt="Typing Banner" />
 </p>
 
 
-<h1 align="center">🌟 Welcome to My GitHub! 🌟</h1>
+<h2 align="center">🌟 Welcome to My GitHub! 🌟</h2>
 
 <p align="center">
   🚀 DevOps Engineer | Cloud Enthusiast | Automation Lover <br>
