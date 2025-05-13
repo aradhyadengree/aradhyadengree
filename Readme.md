@@ -3,7 +3,6 @@
   <img src="https://raw.githubusercontent.com/aradhyadengree/aradhyadengree/c1aa1ddba38340856cb5a879da00619547781d21/assets/animated-banner.svg" alt="Typing Banner" />
 </p>
 
-
 <h2 align="center">🌟 Welcome to My GitHub! 🌟</h2>
 
 <p align="center">
@@ -27,26 +26,47 @@
 
 ---
 
+## 🛠️ My Toolbox
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+  <!-- Cloud & Infra -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+
+  <!-- DevOps Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+
+  <!-- Other -->
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 📦 Scalable Node.js App on AWS  
-Built and deployed a scalable Node.js application using **MongoDB**, **Redis**, **Docker**, and **Terraform** on **AWS EC2**. Showcases automation, containerization, and IaC best practices.
+Built and deployed a scalable Node.js application using MongoDB, Redis, Docker, and Terraform on AWS EC2. Showcases automation, containerization, and IaC best practices.
 
-🔧 **Stack:** Node.js, MongoDB, Redis, Docker, Terraform, AWS  
+🔧 Stack: Node.js, MongoDB, Redis, Docker, Terraform, AWS  
 
 ---
 
 ### 🌐 Distributed IPFS File Uploader  
 A Node.js app that accepts file uploads and pins them to an IPFS node, making content available across multiple connected nodes.
 
-🔧 **Stack:** Node.js, Express, IPFS CLI/API, Docker  
+🔧 Stack: Node.js, Express, IPFS CLI/API, Docker  
 
 ---
 
 ### 🖥️ IPFS Cluster (Local)  
 Built a local IPFS cluster on Linux machines for fully offline file sharing, peer discovery, and decentralized storage practice.
 
-🔧 **Stack:** Linux, IPFS, Shell Scripting  
+🔧 Stack: Linux, IPFS, Shell Scripting  
 
 ---
 
