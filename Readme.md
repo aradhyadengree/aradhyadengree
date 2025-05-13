@@ -55,14 +55,6 @@ Built a local IPFS cluster on Linux machines for fully offline file sharing, pee
 - 📧 Email: [aradhyadengre@gmail.com](mailto:aradhyadengre@gmail.com)
 - 💡 Open to collaborations and DevOps projects!
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aradhyadengre&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradhyadengre&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
