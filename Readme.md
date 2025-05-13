@@ -72,8 +72,18 @@ Built a local IPFS cluster on Linux machines for fully offline file sharing, pee
 
 ## 📫 Get in Touch
 
-- 📧 Email: [aradhyadengre@gmail.com](mailto:aradhyadengre@gmail.com)
-- 💡 Open to collaborations and DevOps projects!
+<p align="center">
+  <a href="mailto:aradhyadengre@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aradhyadengre" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  💡 Open to collaborations and DevOps projects!
+</p>
 
 ---
 
@@ -97,7 +107,7 @@ Built a local IPFS cluster on Linux machines for fully offline file sharing, pee
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aradhyadengre&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aradhyadengree&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
 </p>
 
 ---
@@ -105,7 +115,7 @@ Built a local IPFS cluster on Linux machines for fully offline file sharing, pee
 ## 👀 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aradhyadengre&label=Profile%20Views&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=aradhyadengree&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
 
 ---
