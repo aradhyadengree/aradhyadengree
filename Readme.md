@@ -1,7 +1,8 @@
-<!-- Banner (optional) -->
+<!-- Custom Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aradhya+Dengre;DevOps+Engineer+%7C+Cloud+%7C+Infra+as+Code;Always+automating+the+boring+stuff+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/aradhyadengree/aradhyadengree/main/assets/aradhya_typing_banner.svg" alt="Typing Banner" />
 </p>
+
 
 <h1 align="center">🌟 Welcome to My GitHub! 🌟</h1>
 
