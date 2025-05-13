@@ -69,7 +69,7 @@ Built a local IPFS cluster on Linux machines for fully offline file sharing, pee
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aradhyadengre&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aradhyadengree&theme=tokyonight" />
 </p>
 
 ---
